@@ -16,7 +16,7 @@ export const Hero = () => {
             <div className="max-w-[600px] flex flex-col gap-12 ">
               <div className="flex  flex-col gap-2 ">
                 <p className="lg:text-6xl text-4xl leading-[72px] not-italic tracking-[-1.2px] lg:font-bold  font-semibold dark:text-[#F9FAFB] text-gray-900">
-                  Hi, I’m Light-T-Hito 👋
+                  Hi, I’m Gerlee 👋
                 </p>
                 <p className=" text-base not-italic font-light dark:text-[#D1D5DB] text-gray-600">
                   I specialize in full stack development, particularly with
