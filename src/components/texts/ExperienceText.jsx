@@ -35,7 +35,7 @@ export const ExperienceText = () => {
     <div className="flex flex-col items-center gap-12">
       {experiencText.map((experienc) => {
         return (
-          <div className="lg:flex max-w-[1050px] flex-row justify-between gap-12 p-8 rounded-xl dark:bg-[#1F2937] bg-white shadow-xl">
+          <div className="lg:flex max-w-[1200px] flex-row justify-between gap-12 p-8 rounded-xl dark:bg-[#1F2937] bg-white shadow-xl">
             <div className="h-full">
               <img
                 className=" min-w-[206px]"

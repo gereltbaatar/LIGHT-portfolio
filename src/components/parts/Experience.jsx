@@ -5,7 +5,7 @@ export const Experience = () => {
   return (
     <main className="w-full dark:bg-[#111827] bg-gray-50">
       <div className="container w-full m-auto">
-        <div className="md:px-20 md:py-24 py-16 px-4 ">
+        <div className="md:px-0 md:py-24 py-16 px-4 ">
           <div className="flex flex-col justify-between gap-12 lg:px-8">
             <div className="flex flex-col justify-center items-center gap-4">
               <GrayButton text={"Experience"} />

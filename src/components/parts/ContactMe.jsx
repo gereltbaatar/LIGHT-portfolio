@@ -16,7 +16,7 @@ export const ContactMe = () => {
   return (
     <main className="dark:bg-[#030712] bg-white w-full " id="contact">
       <div className="lg:container w-full lg:m-auto ">
-        <div className="lg:px-20 lg:py-24 py-16 px-4">
+        <div className="lg:px-0 lg:py-24 py-16 px-4">
           <div className="flex flex-col lg:gap-12 gap-6 items-center ">
             <div className="flex flex-col items-center justify-center gap-4 lg:px-8 ">
               <GrayButton text={"Get in touch"} />

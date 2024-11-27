@@ -6,7 +6,7 @@ export const Header = ({ handleClickMenu }) => {
     <main className="dark:bg-[#030712] bg-white w-full fixed z-[1]">
       <div className="flex justify-center static z-[1]">
         <div className="container m-auto  dark:bg-[#030712] bg-white">
-          <div className="lg:px-[80px] lg:py-4 p-4  ">
+          <div className="lg:px-0 lg:py-4 p-4  ">
             <div className="lg:px-8 flex justify-between">
               <a
                 href="#hero"

@@ -6,7 +6,7 @@ import { LiText, Texts } from "../texts";
 export const About = () => {
   return (
     <main className="dark:bg-[#111827] bg-gray-50 " id="about">
-      <div className="lg:container w-full lg:m-auto lg:px-20 lg:py-24 py-16 px-4">
+      <div className="lg:container w-full lg:m-auto lg:px-0 lg:py-24 py-16 px-4">
         <div className="flex flex-col gap-6 gap-12 items-center lg:justify-center lg:px-8 ">
           <GrayButton text={"About Me"} />
           <div className="lg:flex lg:gap-12 lg:w-full">

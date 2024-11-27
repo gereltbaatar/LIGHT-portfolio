@@ -1,21 +1,21 @@
 import { GrayButton } from "../button";
 import {
-  CypressIcon,
+  CssLogoIcon,
   ExpressJsIcon,
   FigmaIcon,
   GitIcon,
+  HtmlLogoIcon,
   JavascriptIcon,
   MongoDBIcon,
-  NestJsIcon,
+  Mongoose,
+  MUIicon,
   NextJsIcon,
   NodeJsIcon,
   PostgreSQLIcon,
   ReactIcon,
-  SassScssIcon,
-  SocketIoIcon,
-  StorybookIcon,
   TailwindcssIcon,
   TypescriptIcon,
+  VercelLogo,
 } from "../skills_icon";
 import { DoneSkilIcon } from "../skills_icon/DoneSkilIcon";
 
@@ -53,13 +53,13 @@ export const Skills = () => {
     },
     {
       id: 6,
-      iconC: <NestJsIcon />,
-      title: "Nest.js",
+      iconC: <HtmlLogoIcon />,
+      title: "HTML",
     },
     {
       id: 7,
-      iconC: <SocketIoIcon />,
-      title: "Socket.io",
+      iconC: <CssLogoIcon />,
+      title: "CSS",
     },
     {
       id: 8,
@@ -73,8 +73,8 @@ export const Skills = () => {
     },
     {
       id: 10,
-      iconC: <SassScssIcon />,
-      title: "Sass/Scss",
+      iconC: <Mongoose />,
+      title: "Mongoose.js",
     },
     {
       id: 11,
@@ -88,13 +88,13 @@ export const Skills = () => {
     },
     {
       id: 13,
-      iconC: <CypressIcon />,
-      title: "Cypress",
+      iconC: <VercelLogo />,
+      title: "Vercel",
     },
     {
       id: 14,
-      iconC: <StorybookIcon />,
-      title: "Storybook",
+      iconC: <MUIicon />,
+      title: "MUI",
     },
     {
       id: 15,
@@ -106,7 +106,7 @@ export const Skills = () => {
   return (
     <main className="w-full dark:bg-[#030712] bg-white " id="skills">
       <div className="md:container md:w-full md:m-auto ">
-        <div className="md:px-20 md:py-24 py-16 px-4">
+        <div className="md:px-0 md:py-24 py-16 px-4">
           <div className="flex flex-col  md:gap-12 gap-4 ">
             <div className="flex flex-col items-center md:justify-center gap-4 md:px-8 ">
               <GrayButton text={"Skills"} />

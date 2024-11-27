@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <main className=" dark:bg-[#030712] bg-white" id="hero">
       <div className="lg:container lg:m-auto  ">
-        <div className="lg:px-20 lg:py-24 pb-16 pt-[132px] px-4">
+        <div className="lg:px-0 lg:py-24 pb-16 pt-[132px] px-4">
           <div className="lg:flex lg:flex-row-reverse lg:items-center justify-between gap-12 lg:px-8">
             <div className="flex justify-center lg:min-w-96 lg:flex-[1,0,0] lg:justify-end lg:items-end ">
               <TestImg1 />
