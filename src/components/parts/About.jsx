@@ -7,7 +7,7 @@ export const About = () => {
   return (
     <main className="dark:bg-[#111827] bg-gray-50 " id="about">
       <div className="lg:container w-full lg:m-auto lg:px-0 lg:py-24 py-16 px-4">
-        <div className="flex flex-col gap-6 gap-12 items-center lg:justify-center lg:px-8 ">
+        <div className="flex flex-col gap-6 items-center lg:justify-center lg:px-8 ">
           <GrayButton text={"About Me"} />
           <div className="lg:flex lg:gap-12 lg:w-full">
             <div className="flex lg:flex-col justify-center lg:flex-[1_0_0] lg:items-start  lg:self-stretch lg:min-w-[620px]">
