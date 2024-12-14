@@ -22,12 +22,12 @@ export const About = () => {
                 <div className="flex flex-col gap-4">
                   <Texts
                     text={
-                      "I'm a designer turned full stack developer, passionate about React.js and Node.js. I excel in blending technical and visual aspects to craft exceptional digital products, prioritizing user experience, precise design, and optimized code"
+                      "I'm a full stack developer, passionate about React.js and Node.js. I excel in blending technical and visual aspects to craft exceptional digital products, prioritizing user experience, precise design, and optimized code"
                     }
                   />
                   <Texts
                     text={
-                      "Since starting my web development journey in 2015, I've embraced challenges and kept up with the latest tech trends. Now in my early thirties, seven years in, I'm building cutting-edge web apps using Next.js, TypeScript, Nestjs, Tailwindcss, Supabase, and more."
+                      "Since starting my web development journey in 2024 , I've embraced challenges and kept up with the latest tech trends. Now in my early thirties, seven years in, I'm building cutting-edge web apps using Next.js, TypeScript, Nestjs, Tailwindcss, and more. "
                     }
                   />
                   <Texts

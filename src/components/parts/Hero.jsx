@@ -19,12 +19,12 @@ export const Hero = () => {
                   Hi, I’m Gerlee 👋
                 </p>
                 <p className=" text-base not-italic font-light dark:text-[#D1D5DB] text-gray-600">
-                  I specialize in full stack development, particularly with
-                  React.js and Node.js. My main goal is to create exceptional
-                  digital experiences that are fast, visually appealing, and
-                  accessible to everyone. With over 7 years of experience in web
-                  development, I continue to find joy in crafting innovative
-                  solutions and designs.
+                  A Full Stack Developer and graduate of Pinecone Academy.
+                  Acquired knowledge and skills in web development using
+                  technologies such as React, Node.js, and MongoDB during the
+                  program. Quick to adapt to new technologies, solution-focused,
+                  and eager to contribute to enhancing the quality and
+                  efficiency of software development.
                 </p>
               </div>
               <div className="flex flex-col gap-2">
